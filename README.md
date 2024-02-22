@@ -13,4 +13,6 @@ echo {assets} | nuclei -t {TEMPLATE-PATH} -silent
 - XSS
 - Open Redirect (oRedirect)
 - SSRF
+- Information disclusur
+- Security miss configuration
 - and so on
